@@ -8,4 +8,5 @@ Languages:
 - Python 
 - C++
 - HTML
+- Javascript
 - SQL
