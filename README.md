@@ -8,5 +8,6 @@ Languages:
 - Python 
 - C++
 - HTML
-- Javascript
+- JavaScript
 - SQL
+- TypeScript
